@@ -28,3 +28,7 @@ _We aim to get the source code up in the coming weeks._
 ### Contact
 
 Please send all questions and comments to phylod@microsoft.com
+
+### Jonathan Moore and Partners
+
+Orginial Microsoft Computational Biology Tools
